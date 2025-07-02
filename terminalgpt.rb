@@ -10,8 +10,8 @@ class Terminalgpt < Formula
   depends_on "python@3.9"
 
   resource "openai" do
-    url "https://files.pythonhosted.org/packages/49/f5/2c0c1e10b82ee10c516912f700b4e0d1f5a9309db1fa1a1afb33591fe8c3/openai-1.2.0.tar.gz"
-    sha256 "4be1dad329e621d72abfee42781db1b15c6ff8f5c2b0784c4c44535c51481dc4"
+    url "https://files.pythonhosted.org/packages/49/f5/988f31ade95e1ff0585af11cc5a64510225e4f5cd392698c675d0a9265b8/openai-1.93.0.tar.gz"
+    sha256 "988f31ade95e1ff0585af11cc5a64510225e4f5cd392698c675d0a9265b8e337"
   end
 
   resource "tiktoken" do
