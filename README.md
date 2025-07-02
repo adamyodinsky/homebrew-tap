@@ -1,2 +1,3 @@
 # homebrew-tap
-homebrew-tap
+
+adam yodinsky homebrew-tap
